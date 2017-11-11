@@ -21,6 +21,12 @@ nav ul {
 }
 
 nav ul li {
-  display: inline; 
+  display: inline;
   margin-right: 10px
 }
+
+header h3 {
+  float: left; 
+  font-size: 30px
+}
+
