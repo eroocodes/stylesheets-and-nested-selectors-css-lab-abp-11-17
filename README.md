@@ -1,8 +1,7 @@
 # Stylesheets and Nested Selectors with CSS
 
 ## Objectives
-
-1. `<link>` to an external stylesheet `style.css` from `index.html`.
+1 `<link>` to an external stylesheet `style.css` from `index.html`.
 2. Use nested element selectors to style the navigation of the Icebreaker homepage.
 3. Play with borders, heights, padding, margin, inline display, and floats.
 
@@ -12,7 +11,7 @@ We're going to style the navigation of our Icebreakers site. The goal is to move
 
 ![Navigation](https://cl.ly/nWkx/Image%202017-11-05%20at%205.38.14%20PM.png)
 
-Code your styles in `style.css` and include it in `index.html` with a `<link>` tag with an `href` attribute and a `rel` attribute of value `stylesheet`. 
+Code your styles in `style.css` and include it in `index.html` with a `<link>` tag with an `href` attribute and a `rel` attribute of value `stylesheet`.
 
 You have to use the specific selectors described below to style the navigation.
 
