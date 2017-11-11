@@ -1,8 +1,7 @@
 # Stylesheets and Nested Selectors with CSS
 
 ## Objectives
-
-1. `<link>` to an external stylesheet `style.css` from `index.html`.
+1 `<link>` to an external stylesheet `style.css` from `index.html`.
 2. Use nested element selectors to style the navigation of the Icebreaker homepage.
 3. Play with borders, heights, padding, margin, inline display, and floats.
 
